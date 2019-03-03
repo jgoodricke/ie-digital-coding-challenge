@@ -1,4 +1,4 @@
-# ie-digital-coding-challenge
+# IE Digital Coding Challenge
 
 ## Decicision on Coding Language
 As I have experience developing applications like this one in other languages, I decided to implement this project in Python, as it is a language that I hadn't been exposed to before. The reason for this is twofold. First, I thought it would illustrate my ability to adapt to unfamiliar coding languages and conventions. Secondly, Python is a language that I have been wanting to learn, and this project provided an ideal opportunity to explore this language developing software that I am quite familiar with already. This did prove more difficult than I initially envisioned, as Python is far removed from the C-based languages that I am familiar with, but I feel that I did an reasonable job in implementing the functionality and testing of this project. 
