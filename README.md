@@ -1,4 +1,12 @@
 # ie-digital-coding-challenge
+
+## Decicision on Coding Language
+
+## Known Issues
+
+## Test Cases
+
+## Specifications
 This application is a simulation of Pacman moving on in a grid, of dimensions 5 units x 5 units.
 
 Description:
