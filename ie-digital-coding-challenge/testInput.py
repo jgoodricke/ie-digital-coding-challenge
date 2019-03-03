@@ -1,5 +1,5 @@
 import unittest
-from CommandInput import CommandInput
+from commandInput import CommandInput
 
 class inputTest(unittest.TestCase):
     #Place Pacman using input

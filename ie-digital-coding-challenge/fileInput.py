@@ -1,4 +1,4 @@
-from CommandInput import CommandInput
+from commandInput import CommandInput
 
 class FileInput(CommandInput):
     """Reads input commands from file."""

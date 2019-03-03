@@ -1,5 +1,5 @@
-from ClInput import ClInput
-from FileInput import FileInput
+from cl_input import ClInput
+from fileInput import FileInput
 
 #Print explanation on how to choose input method
 print ('Wecome to Pacman!')

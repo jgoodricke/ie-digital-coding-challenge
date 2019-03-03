@@ -1,4 +1,4 @@
-from CommandInput import CommandInput
+from commandInput import CommandInput
 
 class ClInput(CommandInput):
     """Reads commands via command line from user."""
